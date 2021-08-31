@@ -6,4 +6,4 @@ Made By - <a href="https://github.com/ThePerkyFellow"> Mayur G </a> & <a href="h
 
 A Make in India initative.
 
-<a href="loadthecode.ml"> © load_thecode
+<a href="https://www.loadthecode.ml/"> © load_thecode
