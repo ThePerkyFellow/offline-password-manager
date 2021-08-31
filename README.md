@@ -2,6 +2,8 @@
 This is a Offline GUI Password Manager,that uses AES Encryption to store passwords localy (MySQL) on your machine ensuring maximum privacy and 
 giving you the option of having multiple users.
 
+Check the PDF File attached in this rep to get an indepth understanding of the app.
+
 Made By - <a href="https://github.com/ThePerkyFellow"> Mayur G </a> & <a href="https://github.com/guitaruser"> Tarun KS </a>
 
 A Make in India initative.
