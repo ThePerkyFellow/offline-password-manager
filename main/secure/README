@@ -1,1 +1,8 @@
-Frontend-Backend connection
+How to setup the backend - MySQL
+1. Create a database named master_password
+2. Create a table by running this command: "create table password name varchar (225) , password varchar(225);" without the quotes.
+That's it!
+
+This Table is created to store the master passwords to all the users on the application.
+
+Every new users will get their own table which contains the encrypted password of all the services they have saved.
