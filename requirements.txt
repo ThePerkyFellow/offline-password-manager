@@ -1,0 +1,4 @@
+tkinter
+python-mysql connector
+PIL
+webbroswer
